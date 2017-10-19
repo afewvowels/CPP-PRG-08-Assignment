@@ -7,10 +7,21 @@
 //
 //  A Contest Scoring Program:
 //
-//  Your company has been selected to implement a contest scoring program for the upcoming Winter Olympics. Each contestant in the Olympics will compete in five (5) competitions.  There will be five (5) contestants. Each competition will be scored on a value of 0 through 10 with 10 being the best and 0 being the worst.
-//  Your job as a programmer is to develop a program to collect (input) the scores for each of the 5 contestants for each of the 5 competitions. (Hint a 2 dimensional array => 5 X 5)
-//  Your program will determine the highest score for that completion and display the number of the winner (1 through 5). (Hint: find the largest value in each column). In addition, your program should total up the total scores for the contestants and award 1st place for the overall winner. (Hint: Sum up each row and find the largest value)
-//  Your main program will prompt for each contest and allow the entry of the scores for each contestant. For example:
+//  Your company has been selected to implement a contest scoring program
+//  for the upcoming Winter Olympics. Each contestant in the Olympics will
+//  compete in five (5) competitions.  There will be five (5) contestants.
+//  Each competition will be scored on a value of 0 through 10 with 10
+//  being the best and 0 being the worst.
+//  Your job as a programmer is to develop a program to collect (input)
+//  the scores for each of the 5 contestants for each of the 5 competitions.
+//  (Hint a 2 dimensional array => 5 X 5)
+//  Your program will determine the highest score for that completion and
+//  display the number of the winner (1 through 5). (Hint: find the largest
+//  value in each column). In addition, your program should total up the
+//  total scores for the contestants and award 1st place for the overall
+//  winner. (Hint: Sum up each row and find the largest value)
+//  Your main program will prompt for each contest and allow the entry
+//  of the scores for each contestant. For example:
 //  Contest #1
 //  7.5 9.3 8.5 7.2 10.0
 //  Contest #2
